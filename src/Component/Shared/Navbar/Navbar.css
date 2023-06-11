@@ -1,0 +1,12 @@
+.join-us-button {
+    background-color: #C82333;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .join-us-button:hover,
+  .join-us-button:focus {
+    background-color: #DC3545;
+  }
